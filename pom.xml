@@ -31,8 +31,7 @@
 	</dependencies>
 
 	<modules>
-        <module>algorithm</module>
-		<module>design-patterns</module>
+		<module>learning-code</module>
     </modules>
 
 	<build>

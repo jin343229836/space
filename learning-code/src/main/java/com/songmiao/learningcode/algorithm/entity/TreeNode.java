@@ -1,4 +1,4 @@
-package com.songmiao.algorithm.entity;
+package com.songmiao.learningcode.algorithm.entity;
 
 public class TreeNode {
     public int val;

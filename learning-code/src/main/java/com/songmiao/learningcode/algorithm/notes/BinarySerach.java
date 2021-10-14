@@ -1,4 +1,4 @@
-package com.songmiao.algorithm.notes;
+package com.songmiao.learningcode.algorithm.notes;
 
 /**
  * 二分查找
