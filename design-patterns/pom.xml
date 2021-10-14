@@ -9,10 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.songmiao</groupId>
-	<artifactId>space</artifactId>
+	<artifactId>design-patterns</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>pom</packaging>
-	<name>space</name>
+	<name>design-patterns</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>
@@ -29,11 +28,6 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-
-	<modules>
-        <module>algorithm</module>
-		<module>design-patterns</module>
-    </modules>
 
 	<build>
 		<plugins>
